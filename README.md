@@ -1,6 +1,6 @@
-# 📊 Proyecto de Análisis de Datos
+#  Proyecto de Análisis de Datos
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto tiene como objetivo analizar un conjunto de datos para obtener **conclusiones sólidas y accionables** que apoyen la toma de decisiones. A través de técnicas de limpieza, análisis exploratorio y visualización de datos, se busca identificar patrones, tendencias y relaciones relevantes.
 
@@ -8,7 +8,7 @@ El proyecto está diseñado como parte de un portafolio de análisis de datos y 
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 * Limpiar y preparar los datos para su análisis.
 * Explorar el comportamiento de las variables principales.
@@ -18,7 +18,7 @@ El proyecto está diseñado como parte de un portafolio de análisis de datos y 
 
 ---
 
-## 🛠️ Herramientas Utilizadas
+##  Herramientas Utilizadas
 
 * **Python**
 * **Jupyter Notebook**
